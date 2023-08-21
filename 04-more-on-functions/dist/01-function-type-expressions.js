@@ -1,6 +1,6 @@
 "use strict";
 function greeter(fn) {
-    fn('Hello World');
+    fn("Hello, World");
 }
 function printToConsole(s) {
     console.log(s);
